@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1057649391203",
+    "project_id": "brillo-ed4b1",
+    "storage_bucket": "brillo-ed4b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057649391203:android:852eb5c2016527b37bea56",
+        "android_client_info": {
+          "package_name": "com.example.brillo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057649391203-4nci2gm9461lodocj0ronkvfm30kn7ia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brillo",
+            "certificate_hash": "72b1bef7a31951b2927574223a9adddfc14acb24"
+          }
+        },
+        {
+          "client_id": "1057649391203-umb8naa95h75vltpg7eniqtmf5c71vu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg2S8fYnjGHcndjIRmwYMwemSR2JSssII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057649391203-umb8naa95h75vltpg7eniqtmf5c71vu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
