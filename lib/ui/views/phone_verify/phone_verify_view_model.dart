@@ -17,15 +17,6 @@ class PhoneVerifyViewModel extends CustomBaseViewModel {
 
   final RouterService _routerService = locator<RouterService>();
 
-  // TwilioFlutter twilioFlutter = TwilioFlutter(
-  //     accountSid:
-  //         "AC8d3a5c45e3dcd15fb835f56cfe15c705", // replace *** with Account SID
-  //     authToken:
-  //         '290a6e732f10c7cc9ca8c142b078ebfd', // replace xxx with Auth Token
-  //     twilioNumber:
-  //         "MG7753d6803d19d901b973d83b1247ec76" // replace .... with Twilio Number
-  //     );
-
   Future<TwilioFlutter?> getTwilio() async {
     try {
       DocumentSnapshot data = await FirebaseFirestore.instance
